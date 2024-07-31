@@ -5,6 +5,21 @@
   margin: 0 auto;
   padding: 2rem;
   font-weight: normal;
+  background-color: white;
+}
+
+h3 {
+  color: black;
+}
+
+li {color: black;}
+
+p {
+  color: black;
+}
+
+html {
+  background-color: black;
 }
 
 a,
